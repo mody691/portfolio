@@ -33,7 +33,7 @@ header{
     padding-left: 25px;
 }
 .navigation a:hover{
-    color: red;
+    color: green;
 }
 section{
     padding: 100px 150px;
